@@ -1,0 +1,79 @@
+.nic{
+  color: grey;
+  background-color: blue;
+  padding: 30px;
+  margin: 30px;
+  border: 5px solid yellow;
+  border-radius: 5%;
+  
+}
+#ch{
+  background-color: grey;
+  color: black;
+  margin: 30px;
+  padding: 30px;
+}
+#mch{
+  background-color: grey;
+  color: black;
+  margin: 30px;
+  padding: 30px;
+  
+}
+#inaya{
+  color: black;
+  width: 20px;
+  background-color: yellow;
+  border: 5px solid indigo;
+  border-radius: 9px ;
+  padding: 5px;
+  text-decoration: none;
+}
+#salman{
+  color: black;
+  width: 20px;
+  background-color: yellow;
+  border: 5px solid indigo;
+  border-radius: 9px ;
+  padding: 5px;
+  text-decoration: none;
+}
+#mch{
+  color: black;
+  width: 20px;
+  background-color: violet;
+  border: 5px solid indigo;
+  border-radius: 9px ;
+  padding: 10px;
+  padding-right: 100px;
+  text-align: center;
+  margin: auto;
+}
+#ch{
+  color: black;
+  width: 20px;
+  background-color: violet;
+  border: 5px solid indigo;
+  border-radius: 9px ;
+  padding: 10px;
+  padding-right: 100px;
+  text-align: center;
+  margin: auto;
+}
+
+#inaya:hover{
+  color: blue;
+  width: 20px;
+  background-color: green;
+  border: 5px solid violet;
+  border-radius: 9px ;
+  padding: 5px;
+}
+#salman:hover{
+  color: blue;
+  width: 20px;
+  background-color: green;
+  border: 5px solid violet;
+  border-radius: 9px ;
+  padding: 5px;
+}
